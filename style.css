@@ -211,3 +211,35 @@
 .cia{
     border-radius: 50%;
 }
+/*ready to focous*/
+.ready-title{
+    font-size: 50px;
+    font-weight: bold;
+    color: #000000;
+    
+    margin-bottom: 20px;
+
+}
+.readt-des{
+    font-size: 16px;
+    color: #757575;
+    margin-bottom: 20px;
+}
+.ready-image{
+    border-radius: 48px;
+    height: 365px;
+    width: 840px;
+    background-size:auto;
+    background-position: center;
+  
+}
+.get{
+    margin-bottom: 20px;
+}
+.ready{
+    text-align: center;
+    
+}
+.ready-to-focous-better{
+    padding: 71px;
+}
