@@ -60,6 +60,7 @@ body{
 .signup:hover{
     background-color: rgb(214, 202, 33);
     cursor: pointer;
+    color: #000000;
 }
 .h-title{
     font-size: 65px;
@@ -79,7 +80,7 @@ body{
 }
 .stay:hover{
     background-color: rgb(214, 202, 33);
-    cursor: pointer;
+    cursor: pointer;color: #000000;
 }
 .header-title{
     width: 905px;
@@ -112,7 +113,7 @@ body{
 }
 .live:hover{
     background-color: rgb(214, 202, 33);
-    cursor: pointer;
+    cursor: pointer;color: #000000;
 }
 .see-im{
     height: 324px;
@@ -329,6 +330,9 @@ body{
     height: 135px;
     width: 100%;
     border: 1px solid rgb(189, 186, 186);
+}
+.stay{
+    margin-top: 20px;
 }
 /*footer section*/
 .logo2{
