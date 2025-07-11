@@ -243,3 +243,46 @@
 .ready-to-focous-better{
     padding: 71px;
 }
+/*form-section*/
+.ft{
+    font-size: 97px;
+    font-weight: bold;
+    color:#000000;
+    height: 232px;
+    width: 528px;
+}
+.from-title{
+    
+}
+.labe-text{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+.from-title{
+    display: flex;
+    width: 1140px;
+    height: 632px;
+    margin: 0 auto; 
+    justify-content: space-around;
+    
+    gap: 30px;
+    align-items: center;
+    
+    
+}
+.fr-ma{
+   height: 490px;
+   width: 497px;
+}
+.area{
+    height: 70px;
+    width: 497px;
+    border: 1px solid rgb(189, 186, 186);
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+::placeholder{
+    font-size: 20px;
+    padding: 20px;
+}
