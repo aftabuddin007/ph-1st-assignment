@@ -44,6 +44,10 @@
    border-radius: 10px;
    border: 1px solid #ffffff;
 }
+.signup:hover{
+    background-color: rgb(214, 202, 33);
+    cursor: pointer;
+}
 .h-title{
     font-size: 65px;
     font-weight: bold;
@@ -59,6 +63,10 @@
    width: 174px;
    border-radius: 10px;
    border: 1px solid #ffffff;
+}
+.stay:hover{
+    background-color: rgb(214, 202, 33);
+    cursor: pointer;
 }
 .header-title{
     width: 905px;
@@ -88,6 +96,10 @@
    width: 229px;
    border-radius: 10px;
    border: 1px solid #ffffff;
+}
+.live:hover{
+    background-color: rgb(214, 202, 33);
+    cursor: pointer;
 }
 .see-im{
     height: 324px;
@@ -329,4 +341,5 @@
     justify-content: center;
     align-items: center;
     margin: 0 auto;
+    background-color: #ffffff;
 }
