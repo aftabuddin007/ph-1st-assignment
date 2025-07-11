@@ -286,3 +286,47 @@
     font-size: 20px;
     padding: 20px;
 }
+/*footer section*/
+.logo2{
+    font-size: 100px;
+    font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 20px;
+
+}
+.lo-des{
+    font-size: 16px;
+    color: #757575;
+}
+  li a{
+    text-decoration: none;
+    
+    font-size: 16px;
+    color: #757575;
+}
+.nav-list {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-around;
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+    
+}
+.footer-section {
+    width: 531px;
+    height: 221px;
+    margin: 0 auto;
+    text-align: center;
+    
+    
+
+}
+.footer{
+    
+    height: 428px;
+    width: 1440px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
